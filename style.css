@@ -1,3 +1,15 @@
+/* 全体 (body) 向けのスタイル */
 body {
     font-size: 16px;
+    color: #3c3c3c;
+}
+
+/* 見出し (h1) 向けのスタイル */
+h1 {
+    border-bottom: solid 2px #3c3c3c;
+}
+
+/* 段落 (p) 向けのスタイル*/
+p {
+    margin: 1em;
 }
